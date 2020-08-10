@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\exercises"
   ],
-  "SelectedNode": "\\readFile.cpp",
+  "SelectedNode": "\\exercises\\x_and_y.dat",
   "PreviewInSolutionExplorer": false
 }
